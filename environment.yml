@@ -1,0 +1,16 @@
+name: statistics-lab
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - numpy
+  - pandas
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pyarrow
+  - openpyxl
+  - pyyaml
