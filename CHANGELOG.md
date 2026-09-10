@@ -4,6 +4,19 @@
 
 ## [Unreleased]
 
+### Added
+
+- 新增 G｜统计基础与理论工具，用于沉淀概率统计、随机模型与统计研究方法。
+- 新增 Foundations 索引、`SL-FND-YYYY-NNN` 编号和 `Draft / Reviewed / Applied` 学习状态。
+- 新增统一基础知识笔记模板。
+
+### Changed
+
+- 在品牌手册、README、参考架构与开发路线中加入 Foundations。
+- 明确 Foundations 与 E｜方法沉淀、正式研究状态及 A–D 证据等级的边界。
+
+### Planned
+
 - 待迁移原 `stats-001` 为 `SL-2026-001`。
 - `quant-001` 继续保留在 Quant Lab；必要时仅作为前置实验链接。
 

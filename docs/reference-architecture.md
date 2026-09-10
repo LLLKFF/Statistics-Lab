@@ -254,7 +254,8 @@ statistics-lab/
 ├── reports/                    # 正式报告
 ├── notebooks/                  # 探索与复现
 ├── figures/                    # 可追溯图表产物
-├── methods/                    # 方法笔记
+├── methods/                    # 面向实际研究的方法笔记
+├── foundations/                # 概率统计、随机模型与研究方法基础
 ├── papers/                     # 论文与复现
 ├── failures/                   # Rejected 与证据不足研究
 └── docs/
@@ -271,9 +272,10 @@ statistics-lab/
 2. **Research Library**：按板块、状态、证据等级、市场和方法筛选；
 3. **Study Page**：假设、数据、估计量、图表、稳健性、局限和复现入口；
 4. **Methods**：方法说明和代码模板；
-5. **Papers**：论文卡、批判性精读、复现与文献图谱；
-6. **Failures**：被拒绝、证据不足和样本外失效研究；
-7. **About**：品牌原则、作者信息与免责声明。
+5. **Foundations**：基础概念、公式推导、例题、模拟实验与知识图谱；
+6. **Papers**：论文卡、批判性精读、复现与文献图谱；
+7. **Failures**：被拒绝、证据不足和样本外失效研究；
+8. **About**：品牌原则、作者信息与免责声明。
 
 API 初期保持只读为主：
 
@@ -282,6 +284,7 @@ API 初期保持只读为主：
 - `/api/results/{study_id}`
 - `/api/figures/{study_id}`
 - `/api/methods`
+- `/api/foundations`
 - `/api/papers`
 - `/api/failures`
 - `/api/jobs/{run_id}`
@@ -389,6 +392,8 @@ Evidence Engine 是 Statistics Lab 与三个参考项目真正拉开差异的核
 **目标**：先统一“研究如何进入系统、如何运行、如何形成证据”。
 
 - [x] 建立三仓库对标与参考架构文档；
+- [x] 建立 G｜统计基础与理论工具、Foundations 索引与统一笔记模板；
+- [ ] 建立 Foundations 元数据及其与 Methods、Papers、Studies 的关联规则；
 - [ ] 决定 Statistics Lab 自身许可证；
 - [ ] 建立 `THIRD_PARTY_NOTICES.md` 和依赖登记表；
 - [ ] 建立 Research Manifest Schema；
@@ -406,7 +411,8 @@ Evidence Engine 是 Statistics Lab 与三个参考项目真正拉开差异的核
 **目标**：借鉴第一个项目的壳子，上线真正属于 Statistics Lab 的研究工作台。
 
 - [ ] 建立 React/Vite 前端和 FastAPI API；
-- [ ] 完成 Home、Research Library、Study Page、Methods、Failures；
+- [ ] 完成 Home、Research Library、Study Page、Methods、Foundations、Failures；
+- [ ] 支持基础知识按领域、内容类型、学习状态与关联研究筛选；
 - [ ] 支持手机、平板和桌面端；
 - [ ] 支持板块、市场、方法、状态与证据等级筛选；
 - [ ] 展示数据窗口、样本量、效应量、区间、局限与失效条件；
@@ -427,6 +433,7 @@ Evidence Engine 是 Statistics Lab 与三个参考项目真正拉开差异的核
 - [ ] 建立交易成本、换手和滑点敏感性模块；
 - [ ] 建立安慰剂、参数扰动和子样本检验；
 - [ ] 建立统一图表组件；
+- [ ] 将统计模块关联到对应 Foundations 笔记、公式推导、示例与测试；
 - [ ] 支持批量日期、市场、参数和资产运行；
 - [ ] 建立缓存、数据质量报告和失败任务记录；
 - [ ] 选择性重新实现筹码分布、K 线形态等研究变量。
@@ -478,7 +485,8 @@ Evidence Engine 是 Statistics Lab 与三个参考项目真正拉开差异的核
 - 用复杂界面、综合评分或漂亮图表掩盖薄弱证据；
 - 把样本量大直接等同于高等级证据；
 - 用 LLM 生成无法复算、无法追溯的核心统计结论；
-- 因参考项目功能丰富而无边界扩张。
+- 因参考项目功能丰富而无边界扩张；
+- 把基础学习笔记的 Draft／Reviewed／Applied 状态当作市场研究状态或证据等级。
 
 ---
 
