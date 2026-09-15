@@ -2,95 +2,92 @@
 
 ## 定位
 
-Global Macro Research Diary 是 Global Macro Lab 的核心输出模块，用于持续记录全球宏观环境变化、市场定价逻辑变化以及研究观点的形成、调整与验证过程。
+Global Macro Research Diary 是 Global Macro Lab 的核心研究输出模块。
 
-它不是新闻摘要，也不是简单的市场评论，而是一套长期积累的宏观研究时间序列。
+它不是新闻摘要，也不是简单的市场评论，而是一套持续记录全球宏观环境变化、市场定价逻辑变化以及研究观点形成与修正过程的时间序列数据库。
+
+核心目标：
+
+> 记录研究推理过程，而不仅仅记录最终结论。
 
 ---
 
 ## Research Philosophy
 
-宏观研究的价值不在于预测每一次市场波动，而在于：
+宏观研究的价值不在于预测每一次市场波动，而在于理解：
 
-- 理解信息如何改变市场预期；
-- 分析经济变量之间的传导机制；
-- 判断政策制定者如何响应变化；
-- 记录观点形成时的假设，并在未来进行验证。
-
-核心原则：
-
-> Record the reasoning process, not only the final conclusion.
-
-记录推理过程，而不仅仅记录最终结论。
+- 什么信息改变了市场预期；
+- 经济变量如何相互传导；
+- 政策制定者如何调整反应函数；
+- 不同机构观点背后的假设是什么；
+- 原有判断何时需要修正。
 
 ---
 
-## Writing Style
+## Writing Standard
 
-Research Diary 采用研究员备忘录风格，而不是传统财经快讯风格。
+Research Diary 采用研究员备忘录风格。
 
-重点从：
+核心路径：
 
-事件 → 观点
+现实数据 → 宏观机制 → 政策反应 → 机构分歧 → 跨资产影响 → Statistics Lab判断
 
-升级为：
-
-市场变化 → 宏观机制 → 政策反应 → 资产定价 → 研究判断
-
-强调完整段落分析，减少碎片化列表。
+强调连续段落分析，而不是碎片化观点罗列。
 
 ---
 
 ## Standard Structure
 
-每篇 Research Diary 包括：
-
 1. Market Observation
 
-市场正在交易什么？核心叙事是否发生变化？
+市场发生了什么？市场正在交易什么核心叙事？
 
-2. Macro Interpretation
+2. Macro Data Review
 
-经济变量如何传导？背后的机制是什么？
-
-3. Current Macro Regime
-
-判断当前经济周期状态：
+结合真实宏观数据：
 
 - Growth
 - Inflation
+- Employment
 - Liquidity
 - Policy
 
-4. Policy Implication
+3. Economic Mechanism
 
-分析央行反应函数和政策约束。
+解释经济变量之间的传导路径。
 
-5. Interest Rate / Financial Conditions
+4. Policy Reaction Function
 
-研究：
+分析央行如何理解新信息，以及政策约束如何变化。
+
+5. Interest Rate & Financial Conditions
+
+重点关注：
 
 - Treasury Yield
 - Real Yield
 - Term Premium
 - Dollar Liquidity
+- Credit Conditions
 
-6. Institutional Perspective
+6. Institutional Debate
 
 跟踪：
 
 - Goldman Sachs
 - Morgan Stanley
 - JPMorgan
-- Bridgewater
 - BlackRock
-- Nick Timiraos 等
+- Bridgewater
+- Nick Timiraos
 
-重点记录：
+重点记录观点、假设、证据和变化。
 
-观点、假设、证据和变化原因。
+7. Global Macro Perspective
 
-7. Asset Market Implication
+结合美国、中国以及全球经济周期变化。
+
+8. Cross Asset Implications
 
 分析：
 
@@ -101,20 +98,24 @@ Research Diary 采用研究员备忘录风格，而不是传统财经快讯风�
 - Gold
 - Crypto
 
-8. Statistics Lab View
+9. Statistics Lab View
 
-形成自己的研究判断：
+形成可验证判断：
 
 - Base Case
 - Risk Scenario
 - Key Indicators
-- What Would Change The View
+- What Would Change My Mind
+
+10. Research Reflection
+
+记录后续验证结果和观点修正。
 
 ---
 
 ## Long-term Goal
 
-通过持续记录和复盘，形成：
+通过持续积累形成：
 
 - 全球宏观研究数据库；
 - 宏观状态识别体系；
