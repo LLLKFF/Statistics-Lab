@@ -4,9 +4,9 @@ Global Macro Research Diary 是 Statistics Lab · Global Macro Lab 的日度研�
 
 ## 阅读入口
 
-[Research Diary #002 · 2026年9月16日：加息已被定价，真正的意外在点阵图：Fed把高利率路径推向2027](Global-Macro-Research-Diary-2026-09-16.md)
+[Research Diary #002 · 2026年9月16日：加息只是表面：Fed把高利率路径推向2027](Global-Macro-Research-Diary-2026-09-16.md)
 
-Research Diary #002 进入 Major Event Mode，对2026年9月FOMC进行完整事件研究。报告比较7月与9月声明、6月与9月SEP/点阵图，核对现任美联储主席Kevin Warsh的公开表述，并按决议公布、新闻发布会与收盘三个阶段拆解市场反应；核心不是复述“加息25bp”，而是识别一致投票、政策路径上移与前端利率重定价分别提供了什么新增信息。信息窗口截止于9月16日美国常规交易收盘及当时可获得的官方文件与公开市场信息；尚未发布或无法同口径核验的数据不做推测性补齐。
+Research Diary #002 进入 Major Event Mode，对2026年9月FOMC重新完成事件研究。报告先核实现任美联储主席Kevin Warsh及官方信息边界，再比较7月与9月声明、6月与9月SEP/点阵图，并把政策动作、委员会一致性、未来利率路径与主席反应函数分开处理；市场部分以决议后至收盘的2Y/10Y、实际利率、美元、黄金、权益和原油定价为证据。核心结论不是“加息25bp”本身，而是Fed把2026—2027年的高利率平台抬成新的中心路径，同时保留数据依赖和明确反证条件。
 
 [Research Diary #001 · 2026年9月15日：油价、5%美债与Fed再定价：通胀问题并没有结束](Global-Macro-Research-Diary-2026-09-15.md)
 
