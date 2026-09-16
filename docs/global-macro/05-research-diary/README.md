@@ -6,7 +6,7 @@ Global Macro Research Diary 是 Statistics Lab · Global Macro Lab 的日度研�
 
 [Research Diary #001 · 2026年9月15日：油价、5%美债与Fed再定价：通胀问题并没有结束](Global-Macro-Research-Diary-2026-09-15.md)
 
-本篇采用连续段落分析，并在正文脚注与文末 References & Sources 中对应列出25项来源。观察窗口为9月15日美国交易时段、9月FOMC决议公布前；不是9月16日决议后的复盘。
+本篇已在9月15日美股常规交易收盘后完成盘后更新，采用连续段落分析，并在正文脚注与文末 References & Sources 中对应列出27项来源。观察窗口截止于9月15日美股收盘及当日可获得的日终数据，仍严格早于9月16日FOMC决议，因此不是决议后的复盘。
 
 ## 正文写作约定
 
