@@ -1,0 +1,75 @@
+name: Finalize Research Diary 001
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/finalize-diary-001.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Remove update-version framing
+        shell: python
+        run: |
+          from pathlib import Path
+
+          diary = Path('docs/global-macro/05-research-diary/Global-Macro-Research-Diary-2026-09-15.md')
+          text = diary.read_text(encoding='utf-8')
+          replacements = [
+              ('观察日期：2026年9月15日｜系列：Statistics Lab · Global Macro Lab｜版本：美股盘后更新｜状态：阶段性判断，待后续数据验证',
+               '观察日期：2026年9月15日｜系列：Statistics Lab · Global Macro Lab｜状态：阶段性判断，待后续数据验证'),
+              ('本版在9月15日美股常规交易收盘后更新，仍严格保留当日的信息边界，不包含9月16日FOMC决议及其后的市场反应。与盘中版本相比，本次主要把美国股市和原油换成正式收盘/结算数据，并用美国财政部9月15日同日的名义与实际收益率曲线重新校准利率分析。这样做的意义不只是把几个数字改得更“新”，而是让这篇日记真正成为一份盘后研究记录：当天市场究竟如何收盘、哪些叙事得到了强化、哪些解释反而需要削弱，都应当在交易结束后重新检查一次。',
+               '本文记录2026年9月15日美国市场完整交易日结束后的宏观与跨资产状态，信息边界截止于当日美股收盘，不包含9月16日FOMC决议及其后的市场反应。市场价格优先采用正式收盘或结算数据，利率分析使用美国财政部9月15日同日的名义与实际收益率曲线；经济数据则按各自统计月份和发布口径处理。全文的目标不是罗列当天发生了什么，而是解释这些价格和数据共同改变了哪些宏观假设，以及哪些判断仍然需要后续数据验证。'),
+              ('### 一、收盘以后再看，市场真正交易的是“高资本成本能维持多久”',
+               '### 一、市场真正交易的是“高资本成本能维持多久”'),
+              ('9月15日收盘后，市场给出的信号比盘中更加清楚。',
+               '9月15日美国市场收盘，风险资产、能源与利率共同给出了一个相当清晰的信号。'),
+              ('与盘中版本相比，收盘数据更值得注意的地方在于WTI涨幅明显大于Brent',
+               '更值得注意的是，WTI涨幅明显大于Brent'),
+              ('因此，盘后再看，我对今天最核心的表述比盘中更加明确：',
+               '因此，我对当天最核心的判断是：'),
+              ('收盘以后，能源供给冲击本身的证据比早盘又强了一层。',
+               '能源供给冲击本身已经有了更直接的实物市场证据。'),
+              ('盘后新增的信息提高了我对“能源冲击是现实约束”的确信，但还没有提高到可以确认“第二轮核心通胀已经形成”的程度。',
+               '这些信息使我更倾向于把能源冲击视为现实约束，但仍不足以确认“第二轮核心通胀已经形成”。'),
+              ('盘中版本最大的限制之一，是当时还没有9月15日完整的官方日终收益率曲线，只能用9月14日的数据去解释当日市场。收盘后这一问题已经解决。美国财政部公布的9月15日平价收益率显示，',
+               '美国财政部公布的9月15日日终平价收益率显示，'),
+              ('### 八、盘后跨资产验证：美元、黄金和加密资产讲的是三种不同的故事',
+               '### 八、跨资产验证：美元、黄金和加密资产讲的是三种不同的故事'),
+              ('### 九、Statistics Lab盘后判断：第一篇日记的主线被强化了，但需要变得更精确',
+               '### 九、Statistics Lab判断：政策空间在收窄，但全面滞胀仍不是基准情景'),
+              ('盘后数据没有推翻这篇日记最初的判断，反而让它变得更具体。美国经济仍然没有提供“已经衰退”的证据，能源供给扰动却比早盘更确定，股票的下跌也具有广泛市场宽度；最重要的是，9月15日完整的美债曲线显示，近期5%长债背后的变化更多发生在实际收益率，而不是长期通胀补偿大幅失控。',
+               '综合9月15日收盘数据、能源供给信息与完整的美债曲线，我更倾向于以下判断。美国经济仍然没有提供“已经衰退”的证据，能源供给扰动已经得到更直接的实物市场证据，股票的下跌也具有广泛市场宽度；最重要的是，9月15日完整的美债曲线显示，近期5%长债背后的变化更多发生在实际收益率，而不是长期通胀补偿大幅失控。'),
+              ('这使我对“高利率维持时间可能超预期”这一判断的确信有所提高，但并没有提高我对“全面滞胀已经成为基准情景”的确信。',
+               '因此，我目前更倾向于认为“高利率维持时间可能超预期”，但仍不把“全面滞胀已经成为基准情景”作为基准判断。'),
+              ('因此，第一篇日记在收盘后的最终落点可以写得更简洁一些：',
+               '因此，本文的最终判断可以写得更简洁一些：'),
+              ('修订说明：本次盘后更新将9月15日美股、原油与部分跨资产数据由盘中快照替换为收盘或正式结算数据，并首次使用美国财政部9月15日同日名义/实际收益率曲线完成期限匹配。历史观察窗口仍截止于9月16日FOMC决议前，不把后续政策结果写回9月15日。后续若出现事实订正或观点变化，应继续通过修订记录保留研究过程，而不是覆盖当时的信息边界。',
+               '口径说明：本文以9月15日美股收盘或正式结算数据作为主要市场快照，并使用美国财政部9月15日同日名义/实际收益率曲线进行期限匹配。观察窗口截止于9月16日FOMC决议前，不把后续政策结果写回9月15日。后续若出现事实订正或观点变化，应通过修订记录保留研究过程，而不是覆盖当时的信息边界。'),
+          ]
+          for old, new in replacements:
+              if old not in text:
+                  raise SystemExit(f'Missing expected diary text: {old[:80]}')
+              text = text.replace(old, new)
+          diary.write_text(text, encoding='utf-8')
+
+          readme = Path('docs/global-macro/05-research-diary/README.md')
+          r = readme.read_text(encoding='utf-8')
+          old = '本篇已在9月15日美股常规交易收盘后完成盘后更新，采用连续段落分析，并在正文脚注与文末 References & Sources 中对应列出27项来源。观察窗口截止于9月15日美股收盘及当日可获得的日终数据，仍严格早于9月16日FOMC决议，因此不是决议后的复盘。'
+          new = 'Research Diary #001 是2026年9月15日的完整日度报告，采用当日美股收盘与正式结算数据，以连续段落组织宏观分析，并在正文脚注与文末 References & Sources 中对应列出27项来源。观察窗口截止于9月15日美股收盘及当日可获得的日终数据，严格早于9月16日FOMC决议，因此不包含后续政策结果。'
+          if old not in r:
+              raise SystemExit('Missing expected README text')
+          readme.write_text(r.replace(old, new), encoding='utf-8')
+      - name: Commit final report wording
+        run: |
+          git config user.name 'Statistics Lab Automation'
+          git config user.email 'actions@users.noreply.github.com'
+          git add docs/global-macro/05-research-diary/Global-Macro-Research-Diary-2026-09-15.md docs/global-macro/05-research-diary/README.md
+          git commit -m 'Present Research Diary #001 as complete daily report'
+          git push
