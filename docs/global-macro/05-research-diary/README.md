@@ -4,6 +4,10 @@ Global Macro Research Diary 是 Statistics Lab · Global Macro Lab 的日度研�
 
 ## 阅读入口
 
+[Research Diary #002 · 2026年9月16日：加息已被定价，真正的意外在点阵图：Fed把高利率路径推向2027](Global-Macro-Research-Diary-2026-09-16.md)
+
+Research Diary #002 进入 Major Event Mode，对2026年9月FOMC进行事件研究。报告比较7月与9月声明、6月与9月SEP/点阵图，拆解Kevin Warsh新闻发布会与决议后市场反应，并明确区分政策利率动作、反应函数/点阵图变化、增长与通胀预测变化以及跨资产定价。信息窗口截止于9月16日美国常规交易收盘及当时可获得的官方文件与公开市场信息；尚未发布的同日实际收益率数据不做推测性补齐。
+
 [Research Diary #001 · 2026年9月15日：油价、5%美债与Fed再定价：通胀问题并没有结束](Global-Macro-Research-Diary-2026-09-15.md)
 
 Research Diary #001 是2026年9月15日的完整日度报告，采用当日美股收盘与正式结算数据，以连续段落组织宏观分析，并在正文脚注与文末 References & Sources 中对应列出27项来源。观察窗口截止于9月15日美股收盘及当日可获得的日终数据，严格早于9月16日FOMC决议，因此不包含后续政策结果。
