@@ -6,12 +6,14 @@
 
 ### Added
 
+- 新增首期 Weekly Macro Review（2026-W38），复用 9 月 15—17 日三期 Research Diary，形成“日记—周度状态—反证条件—下一验证”的研究闭环。
 - 新增 G｜统计基础与理论工具，用于沉淀概率统计、随机模型与统计研究方法。
 - 新增 Foundations 索引、`SL-FND-YYYY-NNN` 编号和 `Draft / Reviewed / Applied` 学习状态。
 - 新增统一基础知识笔记模板。
 
 ### Changed
 
+- 将 Weekly Macro Review 从空目录升级为可实际使用的周频研究层，明确固定字段、复用原则与证据边界。
 - 在品牌手册、README、参考架构与开发路线中加入 Foundations。
 - 明确 Foundations 与 E｜方法沉淀、正式研究状态及 A–D 证据等级的边界。
 
