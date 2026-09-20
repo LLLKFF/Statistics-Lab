@@ -6,7 +6,7 @@ Weekly Macro Review 是 Global Macro Lab 的周频研究层。它不重复日度
 
 [Weekly Macro Review #001｜2026-W38：全球紧缩进入第二阶段——5%美债、BoJ加息与真实资本成本重估](Weekly-Macro-Review-2026-W38.md)
 
-本期汇总 9 月 15—18 日四期 Research Diary，完成第一条可展示的研究闭环：
+本期汇总 9 月 15—18 日四期 Research Diary，已于周末冻结为正式版，完成第一条可展示、可分发的研究闭环：
 
 ```text
 日报完成并归档
@@ -21,6 +21,12 @@ Weekly Macro Review 是 Global Macro Lab 的周频研究层。它不重复日度
 ```
 
 核心结论：本周全球紧缩从“央行是否加息”进入“真实资本成本能在高位维持多久”的第二阶段。Fed 抬高未来政策路径，BoJ 加息后日元反而走弱，美国 10 年期收益率重返 5.01%且上行主要来自实际利率；风险资产尚未全面失速，但内部越来越强调现金流质量。
+
+### 正式报告
+
+- [Institutional Edition PDF｜2026-W38](../../../reports/weekly/2026-W38/Statistics-Lab_Weekly-Macro-Review_2026-W38.pdf)
+- 报告规格：A4，12 页，6 张核心图表，白底深蓝机构研究版式
+- 信息边界：截至 2026 年 9 月 18 日纽约收盘；其后新增信息进入下一周
 
 ## 固定工作流
 
