@@ -4,9 +4,9 @@ Global Macro Research Diary 是 Statistics Lab · Global Macro Lab 的日度研�
 
 ## 阅读入口
 
-[Research Diary #007 · 2026年9月23日：PMI把“软着陆”变成加息交易：5.11%美债、油价反弹与美股回撤](Global-Macro-Research-Diary-2026-09-23.md)
+[Research Diary #007 · 2026年9月23日：好数据开始成为坏消息：PMI 58.4、5%美债与AI久期压力](Global-Macro-Research-Diary-2026-09-23.md)
 
-Research Diary #007记录9月flash PMI增长与价格双强后，市场从AI集中上涨转向更紧政策路径与更高贴现率交易：综合PMI升至58.4、投入价格升至66.4，2年期和10年期官方CMT分别升至4.85%和5.11%，S&P 500与Nasdaq同步回落。本期首次冻结Market Bias与Prediction Ledger，并把#006记为定性逻辑得到验证、但不事后追认为正式命中；下一关键事件是9月24日中美元首会晤，重点观察可执行的关税、出口管制、关键矿产与AI安排，而不是标题语气。
+Research Diary #007记录9月flash PMI增长、订单与价格同时走强后，市场如何把“好数据”重新解释为更紧的Fed路径与更高贴现率：综合PMI升至58.4，Brent结算反弹至103.08美元，2年期与10年期官方CMT分别升至4.85%和5.11%，S&P 500与Nasdaq同步回落。本期首次正式冻结Market Bias与Prediction Ledger；#006只记为机制得到验证，不事后追认为正式命中。下一关键事件是9月24日中美元首会晤，重点观察可执行的贸易、关键矿产、先进技术与AI安排。
 
 [Research Diary #007 · 2026年9月23日：好数据开始成为坏消息：PMI 58.4、5%美债与AI久期压力](Global-Macro-Research-Diary-2026-09-23.md)
 
