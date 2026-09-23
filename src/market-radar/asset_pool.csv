@@ -1,0 +1,99 @@
+ticker,name,asset_class,sector,subsector,theme,priority,benchmark,role,active
+SPY,S&P 500 ETF,etf,Market,Broad,US equities,P0,SPY,benchmark,true
+QQQ,Nasdaq 100 ETF,etf,Market,Growth,US equities,P0,SPY,benchmark,true
+IWM,Russell 2000 ETF,etf,Market,Small cap,US equities,P0,SPY,breadth proxy,true
+^VIX,CBOE VIX,index,Volatility,Implied volatility,Risk,P0,,risk gauge,true
+^FVX,US 5Y yield,index,Rates,5 year,Treasury,P0,,yield percent,true
+^TNX,US 10Y yield,index,Rates,10 year,Treasury,P0,,yield percent,true
+^TYX,US 30Y yield,index,Rates,30 year,Treasury,P0,,yield percent,true
+^IRX,US 13-week bill yield,index,Rates,13 week,Treasury,P0,,yield percent,true
+TLT,Long Treasury ETF,etf,Rates,Long duration,Treasury,P0,,bond price proxy,true
+IEF,Intermediate Treasury ETF,etf,Rates,Intermediate duration,Treasury,P0,,bond price proxy,true
+HYG,High yield bond ETF,etf,Credit,High yield,Credit,P0,,credit price proxy,true
+LQD,Investment grade bond ETF,etf,Credit,Investment grade,Credit,P0,,credit price proxy,true
+DX-Y.NYB,US Dollar Index,index,FX,DXY,US dollar,P0,,dollar index,true
+GC=F,Gold futures,future,Commodity,Gold,Precious metals,P0,,futures proxy,true
+CL=F,WTI crude futures,future,Commodity,WTI,Oil,P0,,futures proxy,true
+SI=F,Silver futures,future,Commodity,Silver,Precious metals,P0,,futures proxy,true
+HG=F,Copper futures,future,Commodity,Copper,Industrial metals,P0,,futures proxy,true
+EEM,Emerging markets ETF,etf,Market,Emerging markets,Global equities,P0,SPY,cross market,true
+XLK,Technology Select Sector ETF,etf,Sector,Technology,US sectors,P0,SPY,sector gauge,true
+SMH,Semiconductor ETF,etf,Sector,Semiconductors,Hardware,P0,SPY,sector gauge,true
+SOXX,Semiconductor ETF,etf,Sector,Semiconductors,Hardware,P0,SPY,sector gauge,true
+XLF,Financial Select Sector ETF,etf,Sector,Financials,US sectors,P0,SPY,sector gauge,true
+XLY,Consumer Discretionary ETF,etf,Sector,Discretionary,US sectors,P0,SPY,sector gauge,true
+XLP,Consumer Staples ETF,etf,Sector,Staples,US sectors,P0,SPY,sector gauge,true
+XLE,Energy Select Sector ETF,etf,Sector,Energy,US sectors,P0,SPY,sector gauge,true
+XLI,Industrial Select Sector ETF,etf,Sector,Industrials,US sectors,P0,SPY,sector gauge,true
+XLU,Utilities Select Sector ETF,etf,Sector,Utilities,US sectors,P0,SPY,sector gauge,true
+XLV,Health Care Select Sector ETF,etf,Sector,Health care,US sectors,P0,SPY,sector gauge,true
+XLC,Communication Services ETF,etf,Sector,Communication,US sectors,P0,SPY,sector gauge,true
+AAPL,Apple,equity,Technology,Mega cap,Platform,P1,QQQ,leader,true
+MSFT,Microsoft,equity,Technology,Mega cap,Cloud AI,P1,QQQ,leader,true
+NVDA,NVIDIA,equity,Technology,Semiconductors,AI hardware,P1,SMH,leader,true
+AMZN,Amazon,equity,Technology,Mega cap,Cloud consumer,P1,QQQ,leader,true
+GOOGL,Alphabet,equity,Technology,Mega cap,AI platform,P1,QQQ,leader,true
+META,Meta Platforms,equity,Technology,Mega cap,AI platform,P1,QQQ,leader,true
+TSLA,Tesla,equity,Technology,EV autonomy,AI application,P1,QQQ,leader,true
+AVGO,Broadcom,equity,Technology,Semiconductors,AI hardware,P1,SMH,leader,true
+ORCL,Oracle,equity,Technology,Cloud,AI infrastructure,P1,QQQ,leader,true
+AMD,Advanced Micro Devices,equity,Technology,Semiconductors,AI hardware,P1,SMH,leader,true
+MU,Micron,equity,Technology,Memory,AI hardware,P1,SMH,leader,true
+SNDK,SanDisk,equity,Technology,Storage,Memory,P1,SMH,leader,true
+TSM,Taiwan Semiconductor,equity,Technology,Foundry,AI hardware,P1,SMH,leader,true
+ASML,ASML,equity,Technology,Equipment,Semiconductors,P1,SMH,leader,true
+AMAT,Applied Materials,equity,Technology,Equipment,Semiconductors,P1,SMH,leader,true
+LRCX,Lam Research,equity,Technology,Equipment,Semiconductors,P1,SMH,leader,true
+KLAC,KLA,equity,Technology,Equipment,Semiconductors,P1,SMH,leader,true
+ARM,Arm Holdings,equity,Technology,Chip IP,Semiconductors,P1,SMH,leader,true
+QCOM,Qualcomm,equity,Technology,Semiconductors,Edge AI,P1,SMH,leader,true
+DELL,Dell Technologies,equity,Technology,Servers,AI infrastructure,P1,SMH,leader,true
+SMCI,Super Micro Computer,equity,Technology,Servers,AI infrastructure,P1,SMH,leader,true
+ANET,Arista Networks,equity,Technology,Networking,AI infrastructure,P1,SMH,leader,true
+VRT,Vertiv,equity,Industrials,Power cooling,AI infrastructure,P1,SMH,leader,true
+SOXL,3x daily semiconductor ETF,leveraged_etf,Technology,Semiconductors,Risk appetite,P1,SMH,leveraged sentiment proxy,true
+PLTR,Palantir,equity,Software,Enterprise software,AI applications,P2,QQQ,rotation,true
+CRM,Salesforce,equity,Software,Enterprise software,Cloud,P2,QQQ,rotation,true
+NOW,ServiceNow,equity,Software,Enterprise software,Cloud,P2,QQQ,rotation,true
+ADBE,Adobe,equity,Software,Creative software,AI applications,P2,QQQ,rotation,true
+SNOW,Snowflake,equity,Software,Data platform,Cloud,P2,QQQ,rotation,true
+CRWD,CrowdStrike,equity,Software,Cybersecurity,Security,P2,QQQ,rotation,true
+PANW,Palo Alto Networks,equity,Software,Cybersecurity,Security,P2,QQQ,rotation,true
+DDOG,Datadog,equity,Software,Observability,Cloud,P2,QQQ,rotation,true
+NET,Cloudflare,equity,Software,Edge security,Cloud,P2,QQQ,rotation,true
+MDB,MongoDB,equity,Software,Database,Cloud,P2,QQQ,rotation,true
+APP,AppLovin,equity,Applications,Advertising,Internet,P2,QQQ,rotation,true
+UBER,Uber,equity,Applications,Mobility,Internet,P2,QQQ,rotation,true
+DASH,DoorDash,equity,Applications,Delivery,Internet,P2,QQQ,rotation,true
+SHOP,Shopify,equity,Applications,Ecommerce,Internet,P2,QQQ,rotation,true
+RDDT,Reddit,equity,Applications,Social media,Internet,P2,QQQ,rotation,true
+SPOT,Spotify,equity,Applications,Audio,Internet,P2,QQQ,rotation,true
+ABNB,Airbnb,equity,Applications,Travel,Internet,P2,QQQ,rotation,true
+JPM,JPMorgan Chase,equity,Financials,Banking,Finance,P2,XLF,rotation,true
+BAC,Bank of America,equity,Financials,Banking,Finance,P2,XLF,rotation,true
+GS,Goldman Sachs,equity,Financials,Investment bank,Finance,P2,XLF,rotation,true
+MS,Morgan Stanley,equity,Financials,Investment bank,Finance,P2,XLF,rotation,true
+V,Visa,equity,Financials,Payments,Finance,P2,XLF,rotation,true
+MA,Mastercard,equity,Financials,Payments,Finance,P2,XLF,rotation,true
+HOOD,Robinhood,equity,Financials,Brokerage,Finance,P2,XLF,rotation,true
+WMT,Walmart,equity,Consumer,Staples,Consumption,P2,SPY,rotation,true
+COST,Costco,equity,Consumer,Staples,Consumption,P2,SPY,rotation,true
+HD,Home Depot,equity,Consumer,Home improvement,Consumption,P2,SPY,rotation,true
+MCD,McDonald's,equity,Consumer,Restaurants,Consumption,P2,SPY,rotation,true
+SBUX,Starbucks,equity,Consumer,Restaurants,Consumption,P2,SPY,rotation,true
+NKE,Nike,equity,Consumer,Apparel,Consumption,P2,SPY,rotation,true
+TGT,Target,equity,Consumer,Retail,Consumption,P2,SPY,rotation,true
+XOM,Exxon Mobil,equity,Energy,Oil gas,Energy,P2,XLE,rotation,true
+CVX,Chevron,equity,Energy,Oil gas,Energy,P2,XLE,rotation,true
+CEG,Constellation Energy,equity,Energy,Power generation,AI power,P2,XLU,rotation,true
+VST,Vistra,equity,Energy,Power generation,AI power,P2,XLU,rotation,true
+ETN,Eaton,equity,Industrials,Electrical equipment,AI power,P2,XLI,rotation,true
+GEV,GE Vernova,equity,Industrials,Power equipment,AI power,P2,XLI,rotation,true
+NEE,NextEra Energy,equity,Energy,Utilities,AI power,P2,XLU,rotation,true
+BTC-USD,Bitcoin,crypto,Crypto,Layer 1,Digital assets,Crypto,,crypto benchmark,true
+ETH-USD,Ethereum,crypto,Crypto,Layer 1,Digital assets,Crypto,BTC-USD,crypto leader,true
+SOL-USD,Solana,crypto,Crypto,Layer 1,Digital assets,Crypto,BTC-USD,crypto leader,true
+MSTR,Strategy,equity,Crypto-linked,BTC treasury,Digital assets,Crypto,BTC-USD,crypto equity,true
+CRCL,Circle Internet Group,equity,Crypto-linked,Stablecoin,Digital assets,Crypto,BTC-USD,crypto equity,true
+COIN,Coinbase,equity,Crypto-linked,Exchange,Digital assets,Crypto,BTC-USD,crypto equity,true
+IBIT,Spot Bitcoin ETF,etf,Crypto-linked,Spot BTC ETF,Digital assets,Crypto,BTC-USD,crypto ETF,true
