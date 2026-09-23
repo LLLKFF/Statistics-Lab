@@ -8,10 +8,6 @@ Global Macro Research Diary 是 Statistics Lab · Global Macro Lab 的日度研�
 
 Research Diary #007记录9月flash PMI增长、订单与价格同时走强后，市场如何把“好数据”重新解释为更紧的Fed路径与更高贴现率：综合PMI升至58.4，Brent结算反弹至103.08美元，2年期与10年期官方CMT分别升至4.85%和5.11%，S&P 500与Nasdaq同步回落。本期首次正式冻结Market Bias与Prediction Ledger；#006只记为机制得到验证，不事后追认为正式命中。下一关键事件是9月24日中美元首会晤，重点观察可执行的贸易、关键矿产、先进技术与AI安排。
 
-[Research Diary #007 · 2026年9月23日：好数据开始成为坏消息：PMI 58.4、5%美债与AI久期压力](Global-Macro-Research-Diary-2026-09-23.md)
-
-Research Diary #007 记录9月23日“好数据变坏消息”的重新定价：美国flash Composite PMI升至58.4，10年期美债重新冲上5%，Fed下一次加息定价升到约七成，美股与高久期科技回落，同时Brent从100美元下方迅速反弹。#007也是Statistics Lab首次正式冻结Market Bias与Prediction Ledger：未来1—3日方向、信心、核心逻辑与失效条件在发布时固定，随后通过1D/3D/5D结果复盘；#006及更早判断只做机制回顾，不事后计入命中率。
-
 [Research Diary #006 · 2026年9月22日：油价跌破100美元，纳指再创新高：AI繁荣与高利率开始分裂市场](Global-Macro-Research-Diary-2026-09-22.md)
 
 Research Diary #006 记录9月22日的市场分裂：Brent正式结算跌破100美元，Nasdaq连续第二日创收盘新高，但S&P 500基本持平、金融与银行板块显著下跌；美国财政部同日曲线显示2年期CMT回落至4.71%、10年期维持4.96%，10年期实际收益率反而小幅升至2.63%。报告不把油价回落解释成Fed转鸽，也不把AI上涨当成统一risk-on，而是把能源尾部风险、真实资本成本、收益率曲线趋平和AI对利润池的重新分配分开处理。下一关键验证是9月23日flash PMI的增长—价格组合，以及随后中美元首会晤是否出现可量化的关税、出口管制或供应链政策变化。
