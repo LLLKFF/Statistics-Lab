@@ -4,6 +4,10 @@ Global Macro Research Diary 是 Statistics Lab · Global Macro Lab 的日度研�
 
 ## 阅读入口
 
+[Research Diary #008 · 2026年9月24日：指数没跌，金融条件却更紧了：2.85%实际利率与被掩盖的市场走弱](Global-Macro-Research-Diary-2026-09-24.md)
+
+Research Diary #008记录指数近乎横盘与金融条件继续收紧之间的背离：S&P 500下跌0.02%、Nasdaq上涨0.01%，但10年期名义与实际CMT分别升至5.18%和2.85%，同日近似通胀补偿反而小幅降至2.33%；下跌家数约为上涨家数1.9倍。#007的10Y收益率判断得到1D验证，权益判断因幅度接近零继续保持Still Open，不强行记为命中。本期冻结S&P 500温和偏空、10Y收益率温和偏高，Nasdaq与Brent维持中性高分化；下一验证集中在实际利率、市场宽度、中美元首会晤可执行条款和霍尔木兹实物流量。
+
 [Research Diary #007 · 2026年9月23日：好数据开始成为坏消息：PMI 58.4、5%美债与AI久期压力](Global-Macro-Research-Diary-2026-09-23.md)
 
 Research Diary #007记录9月flash PMI增长、订单与价格同时走强后，市场如何把“好数据”重新解释为更紧的Fed路径与更高贴现率：综合PMI升至58.4，Brent结算反弹至103.08美元，2年期与10年期官方CMT分别升至4.85%和5.11%，S&P 500与Nasdaq同步回落。本期首次正式冻结Market Bias与Prediction Ledger；#006只记为机制得到验证，不事后追认为正式命中。下一关键事件是9月24日中美元首会晤，重点观察可执行的贸易、关键矿产、先进技术与AI安排。
