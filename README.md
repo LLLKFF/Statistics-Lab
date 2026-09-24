@@ -41,6 +41,7 @@ Statistics Lab 的核心原则：
 | Research Papers | 前沿论文如何理解、复现和扩展？ | 论文卡、精读、复现报告、文献图谱 |
 | Research Diary | 观点如何形成、验证和复盘？ | Thesis记录、市场观察、失败复盘 |
 | Research Projects | 如何将理论转化为实证研究？ | 项目报告、代码和数据 |
+| **Podcast Studio** | 如何把正式研究转化成适合收听、但不损失证据纪律的市场播报？ | Market Brief、播客口播稿、音频分发版本 |
 
 ---
 
@@ -194,6 +195,10 @@ Asset Prices
 - Macro Analyst Knowledge Base
 - Research Note Template
 
+## Distribution & Audio
+
+- [Podcast Studio / Market Brief](docs/podcast/)
+
 ## Other Modules
 
 - [品牌与研究操作手册](DESIGN.md)
@@ -218,9 +223,3 @@ Asset Prices
 受许可限制的数据只保留字段说明和获取方式。
 
 ---
-
-# Disclaimer
-
-本仓库内容仅用于金融市场统计研究、宏观分析方法交流和学术探索，不构成任何投资建议。
-
-研究结论描述的是特定数据、样本和方法下的统计证据，不保证未来表现。
