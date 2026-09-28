@@ -4,6 +4,10 @@ Global Macro Research Diary 是 Statistics Lab · Global Macro Lab 的日度研�
 
 ## 阅读入口
 
+[Research Diary #010 · 2026年9月28日：和平方案被拒，油价重返107美元：一次反证如何重新抬高利率路径](Global-Macro-Research-Diary-2026-09-28.md)
+
+Research Diary #010进入Major Event Mode：美国拒绝伊朗分阶段恢复霍尔木兹海峡通行方案后，Brent升至107.86美元，触发#009事先冻结的失效条件；S&P 500与Nasdaq分别下跌0.77%和0.92%，美国财政部10年期名义与实际CMT同步升至5.24%和2.90%。Forecast Loop保留这次Brent判断的1D失效，并将其归因为情景权重错误叠加外生事件，而不是删除失败样本；#010冻结美股温和偏空、10Y收益率温和偏高，Brent转为中性高波动，下一验证集中在RBA、PCE、实物流量与市场宽度。
+
 [Research Diary #009 · 2026年9月25日：休战延长，利率没有退场：中美小协议与AI对5.17%美债的抵抗](Global-Macro-Research-Diary-2026-09-25.md)
 
 Research Diary #009进入Major Event Mode，研究中美元首会晤把贸易休战延长至2027年1月10日、加入有限商品豁免，却没有改变先进芯片限制和结构性竞争的定价边界。S&P 500与Nasdaq分别上涨0.51%和0.48%，AI订单与公司级催化提供盈利支撑；美国财政部同日10年期名义与实际CMT小幅回落至5.17%和2.83%，高资本成本仍未退场。Forecast Loop保留失败案例：#008的S&P 500温和偏空在1D失效，归因为低估AI催化与政策尾部风险下降；#009冻结两大指数中性、10Y收益率+1与Brent -1，等待1D/3D/5D验证。
