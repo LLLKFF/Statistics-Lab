@@ -4,6 +4,10 @@ Global Macro Research Diary 是 Statistics Lab · Global Macro Lab 的日度研�
 
 ## 阅读入口
 
+[Research Diary #011 · 2026年9月29日：前端听见了Williams，长端没有：RBA加息与5.26%美债的期限分裂](Global-Macro-Research-Diary-2026-09-29.md)
+
+Research Diary #011进入Major Event Mode：RBA全票加息25bp至4.60%，年内累计收紧100bp；美国JOLTS与消费者信心转弱、Williams强调可以等待，2年期官方CMT降至4.89%，但10年期、30年期和10年期实际CMT仍升至5.26%、5.59%和2.91%。报告把“前端政策紧迫性下降”与“长端真实资本成本未松”分开处理，并冻结S&P 500温和偏空、Brent温和偏空，其余主要资产以中性/高波动为主；下一验证集中在9月30日PCE、GDP、实际消费、曲线旋转和中东实物流量。
+
 [Research Diary #010 · 2026年9月28日：和平方案被拒，油价重返107美元：一次反证如何重新抬高利率路径](Global-Macro-Research-Diary-2026-09-28.md)
 
 Research Diary #010进入Major Event Mode：美国拒绝伊朗分阶段恢复霍尔木兹海峡通行方案后，Brent升至107.86美元，触发#009事先冻结的失效条件；S&P 500与Nasdaq分别下跌0.77%和0.92%，美国财政部10年期名义与实际CMT同步升至5.24%和2.90%。Forecast Loop保留这次Brent判断的1D失效，并将其归因为情景权重错误叠加外生事件，而不是删除失败样本；#010冻结美股温和偏空、10Y收益率温和偏高，Brent转为中性高波动，下一验证集中在RBA、PCE、实物流量与市场宽度。
