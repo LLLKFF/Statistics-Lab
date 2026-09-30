@@ -4,6 +4,10 @@ Global Macro Research Diary 是 Statistics Lab · Global Macro Lab 的日度研�
 
 ## 阅读入口
 
+[Research Diary #012 · 2026年9月30日：核心PCE低于预期，10Y却升至5.29%：降温通胀与更强增长的期限分裂](Global-Macro-Research-Diary-2026-09-30.md)
+
+Research Diary #012进入Major Event Mode：8月headline/core PCE分别为0.3%/0.2%环比、3.4%/3.0%同比，但核心同比下修中约36bp来自方法更新；实际消费增长0.6%、实际可支配收入持平、储蓄率降至4.1%，二季度GDP又从1.5%上修至2.2%。市场早盘先交易通胀温和，收盘却留下2Y降至4.88%、10Y/30Y升至5.29%/5.64%、10Y实际CMT升至2.93%的期限分裂。#012冻结S&P 500温和偏空、10Y收益率温和偏高、黄金温和偏弱，其余主要资产以中性高分化为主；下一验证集中在ISM、非农、实际利率与成品油库存。
+
 [Research Diary #011 · 2026年9月29日：前端听见了Williams，长端没有：RBA加息与5.26%美债的期限分裂](Global-Macro-Research-Diary-2026-09-29.md)
 
 Research Diary #011进入Major Event Mode：RBA全票加息25bp至4.60%，年内累计收紧100bp；美国JOLTS与消费者信心转弱、Williams强调可以等待，2年期官方CMT降至4.89%，但10年期、30年期和10年期实际CMT仍升至5.26%、5.59%和2.91%。报告把“前端政策紧迫性下降”与“长端真实资本成本未松”分开处理，并冻结S&P 500温和偏空、Brent温和偏空，其余主要资产以中性/高波动为主；下一验证集中在9月30日PCE、GDP、实际消费、曲线旋转和中东实物流量。
