@@ -4,6 +4,10 @@ Global Macro Research Diary 是 Statistics Lab · Global Macro Lab 的日度研�
 
 ## 阅读入口
 
+[Research Diary #013 · 2026年10月1日：油价跳涨4%，2Y却跌10bp：Fed耐心与再通胀风险的拔河](Global-Macro-Research-Diary-2026-10-01.md)
+
+Research Diary #013不触发Major Event Mode，但把10月2日非农置于Event Watch：9月ISM制造业维持54.5，价格指数升至77.9，初请失业金降至19.7万，中国炼厂暂停10月对多数海外市场的成品油出口使Brent上涨4.37%；盘中10Y触及5.342%后，Jefferson的耐心表述与高收益率买盘推动2Y、10Y官方CMT分别回落至4.78%和5.24%，10Y实际CMT降至2.88%。#013冻结美元与Brent温和偏多，其余主要资产以中性/事件驱动为主，并保留#012 10Y方向失效和Brent中性区间被击穿的复盘。
+
 [Research Diary #012 · 2026年9月30日：核心PCE低于预期，10Y却升至5.29%：降温通胀与更强增长的期限分裂](Global-Macro-Research-Diary-2026-09-30.md)
 
 Research Diary #012进入Major Event Mode：8月headline/core PCE分别为0.3%/0.2%环比、3.4%/3.0%同比，但核心同比下修中约36bp来自方法更新；实际消费增长0.6%、实际可支配收入持平、储蓄率降至4.1%，二季度GDP又从1.5%上修至2.2%。市场早盘先交易通胀温和，收盘却留下2Y降至4.88%、10Y/30Y升至5.29%/5.64%、10Y实际CMT升至2.93%的期限分裂。#012冻结S&P 500温和偏空、10Y收益率温和偏高、黄金温和偏弱，其余主要资产以中性高分化为主；下一验证集中在ISM、非农、实际利率与成品油库存。
