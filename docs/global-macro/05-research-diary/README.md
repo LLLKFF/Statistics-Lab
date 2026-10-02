@@ -4,6 +4,10 @@ Global Macro Research Diary 是 Statistics Lab · Global Macro Lab 的日度研�
 
 ## 阅读入口
 
+[Research Diary #014 · 2026年10月2日：非农只增2.9万，10Y反而升至5.28%：十月暂停与长端不降](Global-Macro-Research-Diary-2026-10-02.md)
+
+Research Diary #014进入Major Event Mode：9月非农仅增2.9万、失业率升至4.2%、工资环比0.1%，7—8月合计下修6万；但家庭就业增加40.6万、参与率升至61.8%，劳动力市场更像招聘降速而非断裂。就业报告把10月加息推向尾部，却没有取消12月与通胀约束；财政部2Y/10Y官方CMT反而升至4.83%/5.28%，10Y实际CMT升至2.92%，同期限近似通胀补偿维持2.36%。#014冻结S&P与Nasdaq温和偏多、10Y收益率温和偏高、黄金温和偏弱，美元与Brent维持中性，并保留#013美元1D失效与#011 S&P 3D失效的误差归因。
+
 [Research Diary #013 · 2026年10月1日：油价跳涨4%，2Y却跌10bp：Fed耐心与再通胀风险的拔河](Global-Macro-Research-Diary-2026-10-01.md)
 
 Research Diary #013不触发Major Event Mode，但把10月2日非农置于Event Watch：9月ISM制造业维持54.5，价格指数升至77.9，初请失业金降至19.7万，中国炼厂暂停10月对多数海外市场的成品油出口使Brent上涨4.37%；盘中10Y触及5.342%后，Jefferson的耐心表述与高收益率买盘推动2Y、10Y官方CMT分别回落至4.78%和5.24%，10Y实际CMT降至2.88%。#013冻结美元与Brent温和偏多，其余主要资产以中性/事件驱动为主，并保留#012 10Y方向失效和Brent中性区间被击穿的复盘。
