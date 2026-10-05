@@ -4,6 +4,10 @@ Global Macro Research Diary 是 Statistics Lab · Global Macro Lab 的日度研�
 
 ## 阅读入口
 
+[Research Diary #015 · 2026年10月5日：纳指新高，实际利率也升至2.95%：AI盈利与长端压力的正面冲突](Global-Macro-Research-Diary-2026-10-05.md)
+
+Research Diary #015不触发Major Event Mode：Nasdaq上涨1.05%并创收盘新高，但10年期名义与实际CMT同步升至5.31%和2.95%，同期限近似通胀补偿维持2.36%；9月ISM服务价格指数升至74.0，为2022年7月以来最高。报告把头部AI盈利动量、油价回落与高真实资本成本分开处理，冻结S&P 500和Nasdaq温和偏多、10Y收益率与美元温和偏高、Brent温和偏弱，黄金维持中性，并保留#014的1D验证与#013 Brent的3D失效。下一验证集中在实际10Y能否守在3.00%以下、Nasdaq新低是否收敛，以及10月7日FOMC会议纪要。
+
 [Research Diary #014 · 2026年10月2日：非农只增2.9万，10Y反而升至5.28%：十月暂停与长端不降](Global-Macro-Research-Diary-2026-10-02.md)
 
 Research Diary #014进入Major Event Mode：9月非农仅增2.9万、失业率升至4.2%、工资环比0.1%，7—8月合计下修6万；但家庭就业增加40.6万、参与率升至61.8%，劳动力市场更像招聘降速而非断裂。就业报告把10月加息推向尾部，却没有取消12月与通胀约束；财政部2Y/10Y官方CMT反而升至4.83%/5.28%，10Y实际CMT升至2.92%，同期限近似通胀补偿维持2.36%。#014冻结S&P与Nasdaq温和偏多、10Y收益率温和偏高、黄金温和偏弱，美元与Brent维持中性，并保留#013美元1D失效与#011 S&P 3D失效的误差归因。
@@ -97,3 +101,4 @@ Research Diary #001 是2026年9月15日的完整日度报告，采用当日美�
 ## English summary
 
 This journal records time-stamped macroeconomic observations and conditional research judgments in sustained prose. Evidence is linked to specific sources; data conventions, publication dates and market observation times are kept explicit. Institutional forecasts are distinguished from policy decisions and the author's own interpretation. Dashboards and model implementations belong in their dedicated modules. Revisions preserve the original information window and are recorded transparently.
+
