@@ -4,6 +4,10 @@ Global Macro Research Diary 是 Statistics Lab · Global Macro Lab 的日度研�
 
 ## 阅读入口
 
+[Research Diary #016 · 2026年10月6日：贸易逆差创17个月高位，股债却同涨：AI进口、盈利季与纪要前的缓冲](Global-Macro-Research-Diary-2026-10-06.md)
+
+Research Diary #016不触发Major Event Mode，但把10月7日FOMC会议纪要置于Event Watch：S&P 500与Nasdaq再创收盘新高，10年期名义与实际CMT同步回落至5.27%和2.91%，同期限近似通胀补偿维持2.36%；8月贸易逆差扩大至1,056亿美元，进口、资本品和半导体需求同时走强。报告把GDP净出口拖累与AI资本开支需求分开处理，冻结两大指数温和偏多，其余主要资产在纪要前回到中性，并保留#015的权益1D验证以及10Y、美元1D失效。下一验证集中在纪要后的2Y、实际10Y、美元、半导体和市场宽度。
+
 [Research Diary #015 · 2026年10月5日：纳指新高，实际利率也升至2.95%：AI盈利与长端压力的正面冲突](Global-Macro-Research-Diary-2026-10-05.md)
 
 Research Diary #015不触发Major Event Mode：Nasdaq上涨1.05%并创收盘新高，但10年期名义与实际CMT同步升至5.31%和2.95%，同期限近似通胀补偿维持2.36%；9月ISM服务价格指数升至74.0，为2022年7月以来最高。报告把头部AI盈利动量、油价回落与高真实资本成本分开处理，冻结S&P 500和Nasdaq温和偏多、10Y收益率与美元温和偏高、Brent温和偏弱，黄金维持中性，并保留#014的1D验证与#013 Brent的3D失效。下一验证集中在实际10Y能否守在3.00%以下、Nasdaq新低是否收敛，以及10月7日FOMC会议纪要。
@@ -101,4 +105,3 @@ Research Diary #001 是2026年9月15日的完整日度报告，采用当日美�
 ## English summary
 
 This journal records time-stamped macroeconomic observations and conditional research judgments in sustained prose. Evidence is linked to specific sources; data conventions, publication dates and market observation times are kept explicit. Institutional forecasts are distinguished from policy decisions and the author's own interpretation. Dashboards and model implementations belong in their dedicated modules. Revisions preserve the original information window and are recorded transparently.
-
